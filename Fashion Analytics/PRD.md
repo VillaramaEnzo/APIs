@@ -2,8 +2,6 @@
 
 ## Fashion Product Scraper & Analytics API
 
----
-
 ## Overview
 This product aims to build a multi-phase API that allows users (primarily fashion brand owners or analysts) to 
 
@@ -15,6 +13,7 @@ This product aims to build a multi-phase API that allows users (primarily fashio
 The system begins with a lightweight scraper-based MVP (no external databases), evolves into a cloud-backed persistent data store, and ultimately become a trend-analysis intelligence layer.
 
 ---
+
 
 ## Vision
 Fasion brands constantly change catelogs — items rotate, sell out, go on sale, restock or disappear. 
@@ -35,6 +34,7 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 
 ---
 
+
 ## User Stories
 
 ### Retail Manager / Brand Owner
@@ -44,6 +44,7 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 - As a developer or analyst, I want a flexible API that returns, clean, normalised JSON, so I can integrate it into my own database, dashboards, or analytics pipelines.
 
 ---
+
 
 ## Project Phases
 
@@ -70,7 +71,7 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 
 3. Product Normalisation
    - Standard JSON structure returend for every product
-   ````
+   ```json
    {
         "title": "Oversized Hoodie",
         "price": 120.00,
@@ -83,7 +84,7 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
         "brand": "Example Brand",
         "scraped_at": "2025-12-01T10:20:33.000Z"
     }
-    ````
+    ```
 
 1. Local Data Storage
    - Each site gets its own folder
@@ -103,9 +104,6 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 - Provides immeidate value without requiring infrastrcture
 - JSON-first approach allows users to analyse, integrate, or visualise data in any workflow
 - Automates competitor monitoring and reduces manual work
-
-
----
 
 ### Phase 2 — Persistent Cloud Database + Historical Tracking (User-Facing)
 
@@ -139,9 +137,6 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 - Provides a ready-to-use dataset for experimentation and testing
 - Avoids multi-tenant storage issues, data bloat, and legal concerns
 - Bridges Stage 1 MVP functionality with Stage 3 analytics capability 
-
-
----
 
 ### Phase 3 - Analytics & AI Insights (Internal / Optional User-Facing)
 
@@ -180,6 +175,7 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 - Provides a a natural evolution from Stage 1/2 JSON-focused MVP to full-fledged AI-powered analytics
 
 ---
+
 
 ## Deployment & Infrastructure Considerations
 - Stage 1: Serverless, stateless, lightweight API - no database required
