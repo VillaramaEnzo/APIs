@@ -70,7 +70,7 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 
 3. Product Normalisation
    - Standard JSON structure returend for every product
-   ````
+   ```json
    {
         "title": "Oversized Hoodie",
         "price": 120.00,
@@ -83,7 +83,7 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
         "brand": "Example Brand",
         "scraped_at": "2025-12-01T10:20:33.000Z"
     }
-    ````
+    ```
 
 1. Local Data Storage
    - Each site gets its own folder
