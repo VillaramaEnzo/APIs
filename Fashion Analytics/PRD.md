@@ -105,9 +105,6 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 - JSON-first approach allows users to analyse, integrate, or visualise data in any workflow
 - Automates competitor monitoring and reduces manual work
 
----
-
-
 ### Phase 2 — Persistent Cloud Database + Historical Tracking (User-Facing)
 
 **Objectives**
@@ -140,9 +137,6 @@ The long-term goal: **A Solid Fashion-Focused Analytics Tool** that empowers bra
 - Provides a ready-to-use dataset for experimentation and testing
 - Avoids multi-tenant storage issues, data bloat, and legal concerns
 - Bridges Stage 1 MVP functionality with Stage 3 analytics capability 
-
-
----
 
 ### Phase 3 - Analytics & AI Insights (Internal / Optional User-Facing)
 
