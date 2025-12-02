@@ -1,0 +1,108 @@
+{
+    "countries": {
+      "NZ": {
+        "stores": [
+          {
+            "name": "Gong Cha",
+            "url": "https://gongcha.co.nz",
+            "notes": "National chain; many outlets across Auckland/NZ"
+          },
+          {
+            "name": "WUCHA",
+            "url": "https://wucha.co.nz",
+            "notes": "NZ-based bubble tea brand; multiple stores in Auckland" 
+          },
+          {
+            "name": "HuluCat",
+            "url": "https://hulucat.co.nz",
+            "notes": "Long-standing local bubble tea house in Auckland" 
+          },
+          {
+            "name": "Chatime",
+            "url": "https://www.chatime.co.nz",
+            "notes": "Global chain, known to have locations in Auckland" 
+          },
+          {
+            "name": "Momo Tea",
+            "url": "https://www.momotea.co.nz",
+            "notes": "Bubble tea shop operating in Auckland region" 
+          },
+          {
+            "name": "Machi Machi",
+            "url": "https://www.machimachi.co.nz",
+            "notes": "International brand with presence in Auckland area" 
+          },
+          {
+            "name": "Yi Fang Taiwan Fruit Tea",
+            "url": "https://yifangtea.co.nz",
+            "notes": "Fruit-tea / bubble tea shop operating in NZ / Auckland" 
+          },
+          {
+            "name": "Teatalk",
+            "url": "https://teatalk.co.nz",
+            "notes": "Bubble tea brand reportedly operating in Auckland" 
+          },
+          {
+            "name": "CHA+ 茶家 Chaplus",
+            "url": "http://chaplus.co.nz",
+            "notes": "Bubble tea store with locations in Auckland region" 
+          },
+          {
+            "name": "Noah's Ark Teahouse",
+            "url": "https://noahsarktea.co.nz",
+            "notes": "Bubble tea / tea house — Auckland region listing found" 
+          },
+          {
+            "name": "Tea & Tea",
+            "url": "https://teaandtea.co.nz",
+            "notes": "Bubble/tea shop operating in Auckland area" 
+          },
+          {
+            "name": "Daily Tea",
+            "url": "https://dailytea.co.nz",
+            "notes": "Chain with at least one Auckland-area store" 
+          },
+          {
+            "name": "Creamomo",
+            "url": "https://creamomo.co.nz",
+            "notes": "Niche bubble tea brand in Auckland / NZ listings" 
+          },
+          {
+            "name": "Ting Tea",
+            "url": "https://tingtea.co.nz",
+            "notes": "Bubble tea store reportedly operating in Auckland" 
+          },
+          {
+            "name": "Coco Fresh Tea & Juice",
+            "url": "https://cocotea.co.nz",
+            "notes": "International chain with NZ presence — check Auckland stores" 
+          },
+          {
+            "name": "Meet Fresh",
+            "url": "https://meetfresh.co.nz",
+            "notes": "Asian dessert/tea brand with listings in NZ/Auckland region" 
+          },
+          {
+            "name": "Bubble Tea Cafe",
+            "url": "http://bubbleteacafe.co.nz",
+            "notes": "Independent bubble-tea / café in Auckland region directory" 
+          },
+          {
+            "name": "Teadee",
+            "url": "https://teadee.co.nz",
+            "notes": "Tea shop serving bubble tea in Auckland listings" 
+          },
+          {
+            "name": "Coconut Factory",
+            "url": "https://coconutfactory.co.nz",
+            "notes": "Dessert/drink shop — sometimes offers bubble-tea style drinks" 
+          },
+          {
+            "name": "TwenTea",
+            "url": "https://twentea.co.nz",
+            "notes": "Bubble tea brand listed among NZ bubble-tea shops" 
+          }
+        ]
+      }
+    }
+  }
