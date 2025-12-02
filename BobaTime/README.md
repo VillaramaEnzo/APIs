@@ -1,8 +1,7 @@
 
 ### Data Structure
 
-'''json
-
+```json
 {
   "countries": {
     "<country_code_or_name>": {
@@ -20,11 +19,9 @@
   }
 }
 
+```
 
-'''
-
-'''json
-
+```json
 {
   "countries": {
     "NZ": {
@@ -63,6 +60,4 @@
     }
   }
 }
-
-
-'''
+```
