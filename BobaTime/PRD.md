@@ -100,7 +100,7 @@ BobaTime aims to:
 
 1. Drink Normalisation
 
-- Scrape all available drinkn metadata even if prices missing
+- Scrape all available drink metadata even if prices missing
 - Mark prices as "unknown" rather than omit them
 - Allow future price discovery from other sources (e.g. UberEats, Manual Entry)
 
