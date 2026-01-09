@@ -1,0 +1,5 @@
+{
+    "watch": ["src"],
+    "ignore": ["data/stores.json", "data/rawData.json"],
+    "ext": "js,json"
+  }
