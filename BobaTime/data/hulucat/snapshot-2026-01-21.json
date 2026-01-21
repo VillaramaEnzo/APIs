@@ -1,0 +1,60 @@
+{
+  "shop": "HuluCat",
+  "url": "https://hulucat.co.nz",
+  "scraped_at": "2026-01-21T02:06:02.537Z",
+  "series": {
+    "Menu": {
+      "drinks": {
+        "Thai Slushy": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Thai Milk Tea w/ Pearls": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Taro Green Milk Tea": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Cream Cheese Black Tea w/ Pearls": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Aiyu Gourd Tea w/ Agar Pearls": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Brown Sugar Fresh Milk": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    }
+  },
+  "toppings": {}
+}

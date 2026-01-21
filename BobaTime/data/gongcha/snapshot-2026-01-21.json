@@ -1,0 +1,904 @@
+{
+  "shop": "GongCha",
+  "url": "https://gongcha.co.nz",
+  "scraped_at": "2026-01-21T02:04:11.929Z",
+  "series": {
+    "Brewed Tea": {
+      "drinks": {
+        "Black Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Oolong Tea (Cold)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Earl Grey Tea (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Black Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Green Tea (Hot)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Oolong Tea (Hot)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Earl Grey Tea (Hot)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    },
+    "Gong cha Signature": {
+      "drinks": {
+        "Milk Foam Black Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Oolong Tea (Cold)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Earl Grey (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Wintermelon (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Black Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Green Tea (Hot)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Oolong Tea (Hot)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Earl Grey Tea (Hot)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Foam Wintermelon (Hot)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Dirtea Fresh Milk (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Dirtea Fresh Milk Black Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Dirtea Coffee Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    },
+    "Health Drink": {
+      "drinks": {
+        "Honey Drink (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Wintermelon Drink (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honey Lemon Drink (Cold)": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Lemon Wintermelon Drink (Cold)": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Lychee Honey Drink w Aloe Vera (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "White Pearl & Ai-Yu Special (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honey Drink (Hot)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Wintermelon Drink (Hot)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honey Lemon Drink (Hot)": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Lemon Wintermelon Drik (Hot)": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    },
+    "Milk Tea": {
+      "drinks": {
+        "Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Green Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Oolong Milk Tea (Cold)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Earl Grey Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honey Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Oolong Milk Tea w Herbal Jelly (Cold)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Pearl Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Tea w Coconut Jelly (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Chocolate Milk Drink (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Japanese Matcha Milk Drink (Cold)": {
+          "tea_base": "Matcha",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Tea w Pudding & Pearl (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Brown Sugar Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Caramel Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Earl Grey Milk Tea w 3J (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Oreo Chocolate Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Strawberry Green Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Japanese Matcha Milk Drink w Red Bean (Cold)": {
+          "tea_base": "Matcha",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honeydew Milk Drink (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Strawberry Chocolate (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Taro Milk Drink (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honeydew Green Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Mango Green Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Green Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Oolong Milk Tea (Hot)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Earl Grey Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honey Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Pearl Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Milk Tea w Coconut Jelly (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Chocolate Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Japanese Matcha Milk Drink (Hot)": {
+          "tea_base": "Matcha",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Brown Sugar Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Caramel Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Japanese Matcha Milk Drink w Red Bean (Hot)": {
+          "tea_base": "Matcha",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Taro Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    },
+    "Fresh Milk Tea": {
+      "drinks": {
+        "Fresh Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Oolong Milk Tea (Cold)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Earl Grey Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Milk Wintermelon (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Milk w Red Bean & Pudding (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Milk w Herbal Jelly & Pearl (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Milk Japanese Matcha (Cold)": {
+          "tea_base": "Matcha",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Green Milk Tea (Cold)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Green Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Oolong Milk Tea (Hot)": {
+          "tea_base": "Oolong Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Earl Grey Milk Tea (Hot)": {
+          "tea_base": "Black Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Milk Wintermelon (Hot)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Fresh Milk Japanese Matcha (Hot)": {
+          "tea_base": "Matcha",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    },
+    "Creative Mix": {
+      "drinks": {
+        "Wintermelon Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honey Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Grapefruit Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Lemon Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Peach Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Mango Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Lychee Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Peach Lychee Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "QQ Passionfruit Green Tea (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Wintermelon Green Tea (Hot)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honey Green Tea (Hot)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Lemon Green Tea (Hot)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Mango Green Tea (Hot)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "QQ Passionfruit Green Tea (Hot)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    },
+    "Yogurt Drink Series": {
+      "drinks": {
+        "Green Tea Yogurt (Cold)": {
+          "tea_base": "Green Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Grapefruit Yogurt Drink (Cold)": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Peach Yogurt Drink (Cold)": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Lemon Yogurt Drink (Cold)": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Strawberry Yogurt Drink": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Mango Yogurt Drink (Cold)": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    },
+    "Smoothies": {
+      "drinks": {
+        "Lychee Smoothie": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Passionfruit Smoothie w Coconut Jelly": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Taro Smoothie": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Mango Smoothie": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Peach Yogurt Smoothie w Coconut Jelly": {
+          "tea_base": "Fruit Tea",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Mango Yogurt Smoothie": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Oreo Chocolate Smoothie": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        },
+        "Honeydew Smoothie": {
+          "tea_base": "Unknown",
+          "description": "",
+          "base_price": "unknown",
+          "has_price": false,
+          "upsizes": {},
+          "toppings_not_allowed": []
+        }
+      }
+    }
+  },
+  "toppings": {}
+}
